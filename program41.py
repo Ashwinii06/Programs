@@ -15,7 +15,7 @@ def lengthOfLastWord(a):
 
 
 if __name__ == "__main__":
-	inp = "Geeks For Geeks "
+	inp = "mountain"
 	print("The length of last word is",
 		lengthOfLastWord(inp))
 
